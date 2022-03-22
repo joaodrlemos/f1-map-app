@@ -1,0 +1,25 @@
+.station-type{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+
+    z-index: 2;
+    min-height: 80px;
+    min-width: 160px;
+    border-radius: 10px;
+    background-color: #fff;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 25px;
+
+    -webkit-box-shadow: 1px 1px 5px 0px rgba(155,155,155,0.79); 
+    box-shadow: 1px 1px 5px 0px rgba(155,155,155,0.79);
+
+    font: 1em sans-serif;
+}
+
+.station-type input{
+    cursor: pointer;
+}
