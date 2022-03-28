@@ -12,8 +12,7 @@ What the app does:
 
 ## Technologies used
 
-- HTML, CSS, JS
-- React, Sass
+- HTML, CSS, JS, React
 
 ## Requirements to run the project
 
